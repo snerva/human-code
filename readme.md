@@ -11,5 +11,5 @@ PROBLEMA/SOLUZIONE:Contare i posti a tavola di 2 in 2
   - aggiungi 1
   - SE c'é un posto di troppo 
   - togli 1
-
+  -ALTRIMENTI siediti e mangia
 
